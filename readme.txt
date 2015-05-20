@@ -41,7 +41,7 @@ Then:
 
 = Is this guaranteed to work =
 
-No. I threw it together in 2 hours.  There are no guarantees.  Plus its free!
+No. I pulled it together in a few hours.  There are no guarantees.  Plus its free!
 
 = Why don't you use the API? =
 
