@@ -18,10 +18,12 @@ The url/feed you're looking for might look something like below:
 ```
 http://XXXX.bullhornstaffing.com/JobBoard/Standard/JobOpportunitiesRSS.cfm?privateLabelID=XXXXX
 ```
+
 Admin Options
-* Load a generic stylesheet (100% width div, well sized fonts, etc)
-* Cache the RSS feed for 10 minutes (Faster load times.  Done using transients.)
-* Use a different URL than default for the shortcode (define by adding url attribute to the shortcode)
+
+ * Load a generic stylesheet (100% width div, well sized fonts, etc)
+ * Cache the RSS feed for 10 minutes (Faster load times.  Done using transients.)
+ * Use a different URL than default for the shortcode (define by adding url attribute to the shortcode)
 
 Built by [Y-Designs | Seattle Web Design](http://y-designs.com/)
 
